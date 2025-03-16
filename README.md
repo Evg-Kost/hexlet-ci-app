@@ -1,4 +1,5 @@
-[![test-work](https://github.com/Evg-Kost/hexlet-ci-app/actions/workflows/test-work.yml/badge.svg)]
+[![Node CI](https://github.com/Evg-Kost/hexlet-ci-app/actions/workflows/test-work.yml/badge.svg)]
+
 (https://github.com/Evg-Kost/hexlet-ci-app/actions/workflows/test-work.yml)
 
 
